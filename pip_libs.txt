@@ -1,5 +1,42 @@
+Blueprint
+###
+    Blueprint是flask中的一个工具，提供开发者构建或扩展应用程序蓝图用的。
+###
+
+
 flask-session
+###
+    flask-session是一个会话工具，它能够使服务器会话到应用程序
+###
+
+flask_migrate
+###
+    flask-migrate是flask的一个扩展模块,主要是扩展数据库表结构的
+###
+
+
 flask_sqlalchemy
-SQLAlchemy
-Manager
+###
+    SQLAlchemy是一个基于Python实现的ORM框架。
+    该框架建立在 DB API之上，使用关系对象映射进行数据库操作，
+    简言之便是：将类和对象转换成SQL，然后使用数据API执行SQL并获取执行结果。
+    操作mysql变得非常简单
+###
+
+
+
+flask_migrate
+###
+    flask-migrate是flask的一个扩展模块,主要是扩展数据库表结构的
+###
+
+
+
 flask-bootstrap
+###
+    Flask-Bootstrap 把 Bootstrap 打包进一个 扩展，这个扩展主要由一个叫“bootstrap”的蓝本（blueprint）组成。
+    它也可以创建链接从一个CDN上引用Bootstrap资源。
+
+    这个项目已经很久没有更新，目前版本为：Flask-Bootstrap (3.3.7.1)
+    可以使用Bootstrap-Flask (1.0.9) 代替 Flask-Bootstrap (3.3.7.1) 但两个库的方法可能不同
+###
